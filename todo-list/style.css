@@ -1,0 +1,28 @@
+html {
+    height: 100%;
+}
+body {
+    background-color: greenyellow;
+
+}
+h1{
+    color:black;
+  text-align: center;
+}
+.container {
+    height: 500px;
+    width: 1000px;
+    border: 5px solid black;
+    background-color: chocolate;
+    margin: auto;
+}
+#inputField {
+   margin-left: 300px;
+   margin-top: 50px;
+   font-size: 30px;
+}
+
+#addToDo {
+    margin-left: 20px;
+    font-size: 30px;
+}
